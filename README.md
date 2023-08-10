@@ -1,2 +1,2 @@
 # yairzaff.github.io
-redirect 
+redirect to new domain yairzaf.github.io
